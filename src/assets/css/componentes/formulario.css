@@ -1,0 +1,16 @@
+
+
+.formulario-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.formulario {
+    background-color: #fdfdfd;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: var(--sombra);
+}
